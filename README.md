@@ -72,6 +72,8 @@ Il contient :
 - Nom utilisateur
 - Display Name
 
+          TUTO
+  https://github.com/roblox-pixel/roblox-friends-exporter/blob/main/installation.mp4
 
 ========================================
 ⚠️ IMPORTANT
