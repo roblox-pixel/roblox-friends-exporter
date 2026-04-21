@@ -83,3 +83,4 @@ Il contient :
 - Aucun accès aux données privées
 - Projet à but éducatif uniquement
 - Non affilié à Roblox
+- affiche seulement 200 amis 
