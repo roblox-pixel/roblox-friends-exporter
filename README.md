@@ -83,4 +83,17 @@ Il contient :
 - Aucun accès aux données privées
 - Projet à but éducatif uniquement
 - Non affilié à Roblox
-- affiche seulement 200 amis 
+- affiche seulement 200 amis
+- 
+- Ce projet est fourni à des fins éducatives et de démonstration uniquement.
+- 
+Ne pas utiliser cet outil pour :
+- contourner les règles de Roblox
+- récupérer ou exploiter des données de manière abusive
+- automatiser des actions interdites par les conditions d’utilisation
+
+Toute utilisation illégale ou non autorisée est sous la responsabilité de l’utilisateur.
+
+En utilisant ce projet, vous acceptez de l’utiliser de manière légale et responsable.
+  
+
